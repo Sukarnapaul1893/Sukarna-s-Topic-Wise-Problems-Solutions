@@ -1,4 +1,4 @@
+#Bellman Ford Algorithm
+	UVa 12519, UVa 558, 
 #Trie
-	UVa 11362
-#Bellman Ford
-	UVa 12519, 
+	UVa 11362, Timus 1414,

@@ -3,4 +3,4 @@
 #Trie
 	UVa 11362, Timus 1414,
 #Segmented Sieve
-	SPOJ-PRIME1
+	SPOJ-PRIME1, SPOJ-PRINT

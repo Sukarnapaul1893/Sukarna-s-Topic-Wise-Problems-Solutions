@@ -2,6 +2,8 @@
 	UVa 12519, UVa 558, 
 #Math
 	UVa 10061,
+#Prime Numbers
+	UVa 10394,
 #Segmented Sieve
 	SPOJ-PRIME1, SPOJ-PRINT
 #Trie

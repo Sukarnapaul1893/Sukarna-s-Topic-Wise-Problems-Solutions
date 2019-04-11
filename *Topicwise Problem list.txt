@@ -1,11 +1,18 @@
 #Bellman Ford Algorithm
-	UVa 12519, UVa 558, 
+	UVa 12519
+	UVa 558 
 #Math
-	UVa 10061,
+	UVa 10061
+#Mo's Algorithm
+	Powerful array(codeforces link: https://codeforces.com/contest/86/problem/D)
+	SPOJ-DQUERY
 #Prime Numbers
-	UVa 10394,
+	UVa 10394
 #Segmented Sieve
-	SPOJ-PRIME1, SPOJ-PRINT
+	SPOJ-PRIME1
+	SPOJ-PRINT
 #Trie
-	UVa 11362, Timus 1414,
+	UVa 11362
+	Timus 1414,
 
+	

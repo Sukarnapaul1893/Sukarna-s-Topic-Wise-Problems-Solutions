@@ -1,6 +1,8 @@
 #Bellman Ford Algorithm
 	UVa 12519
 	UVa 558 
+#Josephus Problem
+	LightOJ 1179
 #LCA (Lowest common ancestor)
 	Blood Cousins (codeforces link: https://codeforces.com/contest/208/problem/E)
 #Math

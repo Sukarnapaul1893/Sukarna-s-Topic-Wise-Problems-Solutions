@@ -10,6 +10,8 @@
 #Mo's Algorithm
 	Powerful array(codeforces link: https://codeforces.com/contest/86/problem/D)
 	SPOJ-DQUERY
+#Partial Sum
+	Stripe ( https://codeforces.com/problemset/problem/18/C )
 #Prime Numbers
 	UVa 10394
 #Segmented Sieve

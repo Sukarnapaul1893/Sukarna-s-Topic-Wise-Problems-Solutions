@@ -3,6 +3,7 @@
 	UVa 558 
 #Dynamic Programming (DP)
 	LightOJ 1122
+	LightOJ 1047
 #Josephus Problem
 	LightOJ 1179
 #LCA (Lowest common ancestor)

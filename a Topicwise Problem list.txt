@@ -4,6 +4,8 @@
 #Dynamic Programming (DP)
 	LightOJ 1122
 	LightOJ 1047
+#Implementation 
+	CF Gym 	F - Football Free Kick (Link: https://codeforces.com/gym/101864/problem/F)
 #Josephus Problem
 	LightOJ 1179
 #LCA (Lowest common ancestor)

@@ -1,6 +1,8 @@
 #Bellman Ford Algorithm
 	UVa 12519
 	UVa 558 
+#DP on Trees
+	EOlymp - 973 Maximum sum on a tree
 #Dynamic Programming (DP)
 	LightOJ 1122
 	LightOJ 1047

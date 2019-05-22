@@ -30,6 +30,8 @@
 #Segmented Sieve
 	SPOJ-PRIME1
 	SPOJ-PRINT
+#Stable Marriage Problem
+	Codechef - STABLEMP
 #Tree Diameter
 	SPOJ - PT07Z Longest path in a tree
 #Trie

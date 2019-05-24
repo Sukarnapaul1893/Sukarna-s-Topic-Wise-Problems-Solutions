@@ -1,3 +1,4 @@
+tutorial link : https://codeforces.com/blog/entry/22276
 #pragma warning(disable:4786)
 #pragma warning(disable:4996)
 #include<bits/stdc++.h>

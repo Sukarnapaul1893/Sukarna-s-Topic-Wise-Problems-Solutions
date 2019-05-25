@@ -29,6 +29,8 @@
 	LightOJ  1418
 #Prime Numbers
 	UVa 10394
+#Segment Tree
+	CF - Xenia and Bit Operations (https://codeforces.com/contest/339/problem/D)
 #Segmented Sieve
 	SPOJ-PRIME1
 	SPOJ-PRINT

@@ -10,6 +10,8 @@
 #Dynamic Programming (DP)
 	LightOJ 1122
 	LightOJ 1047
+#Floyd Warshall Algorithm
+	CF-New Year Permutation (Link: https://codeforces.com/contest/500/problem/B)
 #Implementation 
 	CF Gym 	F - Football Free Kick (Link: https://codeforces.com/gym/101864/problem/F)
 #Josephus Problem

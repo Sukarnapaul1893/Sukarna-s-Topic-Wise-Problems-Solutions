@@ -1,5 +1,8 @@
 #0-1 BFS
 	SPOJ - KATHTHI
+#Basic Geometry
+	UVa 476
+	UVa 477
 #Bellman Ford Algorithm
 	UVa 12519
 	UVa 558 

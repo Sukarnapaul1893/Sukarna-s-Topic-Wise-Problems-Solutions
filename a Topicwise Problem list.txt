@@ -3,6 +3,7 @@
 #Basic Geometry
 	UVa 476
 	UVa 477
+	UVa 378
 #Bellman Ford Algorithm
 	UVa 12519
 	UVa 558 

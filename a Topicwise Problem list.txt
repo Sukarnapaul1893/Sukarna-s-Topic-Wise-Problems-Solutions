@@ -27,6 +27,7 @@
 #Math
 	UVa 10061
 	CF - 20B Equation (codeforces Link: https://codeforces.com/contest/20/problem/B)
+	Codechef - GEEK02
 #Mo's Algorithm
 	Powerful array(codeforces link: https://codeforces.com/contest/86/problem/D)
 	SPOJ-DQUERY

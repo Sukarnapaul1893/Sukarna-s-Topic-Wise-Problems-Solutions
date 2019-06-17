@@ -48,6 +48,8 @@
 	SPOJ-PRINT
 #Stable Marriage Problem
 	Codechef - STABLEMP
+#String compare
+	CF - Design Tutorial: Make It Nondeterministic (https://codeforces.com/contest/472/problem/C)
 #Tree Diameter
 	SPOJ - PT07Z Longest path in a tree
 #Trie

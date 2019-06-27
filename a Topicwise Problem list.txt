@@ -32,6 +32,8 @@
 #Mo's Algorithm
 	Powerful array(codeforces link: https://codeforces.com/contest/86/problem/D)
 	SPOJ-DQUERY
+#Ordered_set
+	CF - Nested Segments (codeforces Link: https://codeforces.com/contest/652/problem/D)
 #Partial Sum
 	Stripe ( https://codeforces.com/problemset/problem/18/C )
 	Kuriyama Mirai's Stones ( https://codeforces.com/problemset/problem/433/B )

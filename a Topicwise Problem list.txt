@@ -56,6 +56,8 @@
 #Segmented Sieve
 	SPOJ-PRIME1
 	SPOJ-PRINT
+#Spanning Tree
+	SPOJ - MST
 #Stable Marriage Problem
 	Codechef - STABLEMP
 #String compare

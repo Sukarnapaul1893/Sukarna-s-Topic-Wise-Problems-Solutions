@@ -66,6 +66,7 @@
 	SPOJ - PT07Z Longest path in a tree
 #Trie
 	UVa 11362
-	Timus 1414,
+	Timus 1414
+	SPOJ - ADAINDEX
 
 	

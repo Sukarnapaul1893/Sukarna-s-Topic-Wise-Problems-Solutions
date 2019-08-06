@@ -38,6 +38,8 @@
 #Mo's Algorithm
 	Powerful array(codeforces link: https://codeforces.com/contest/86/problem/D)
 	SPOJ-DQUERY
+#Modular Arithmetic
+	Uva-10127
 #Ordered_set
 	CF - Nested Segments (codeforces Link: https://codeforces.com/contest/652/problem/D)
 	CF - 45 D Event Dates (codeforces Link: https://codeforces.com/contest/45/problem/D)

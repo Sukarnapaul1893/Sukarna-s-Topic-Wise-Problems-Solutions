@@ -16,6 +16,7 @@
 #DFS
 	CF - Kefa and Park (Link: https://codeforces.com/problemset/problem/580/C)
 	CF - Kuro and Walking Route (Link: https://codeforces.com/contest/979/problem/C)
+	HDU - 5167
 #DP on Trees
 	EOlymp - 973 Maximum sum on a tree
 #Dynamic Programming (DP)

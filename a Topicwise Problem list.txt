@@ -79,5 +79,7 @@
 	UVa 11362
 	Timus 1414
 	SPOJ - ADAINDEX
+#X-OR
+	Codechef - LENTMO
 
 	

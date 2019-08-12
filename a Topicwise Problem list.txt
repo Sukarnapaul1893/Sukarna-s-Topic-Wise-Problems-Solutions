@@ -31,6 +31,8 @@
 	CF Gym 	F - Football Free Kick (Link: https://codeforces.com/gym/101864/problem/F)
 #Josephus Problem
 	LightOJ 1179
+#KMP
+	LightOJ-1255 - Substring Frequency
 #LCA (Lowest common ancestor)
 	CF - Blood Cousins (codeforces link: https://codeforces.com/contest/208/problem/E)
 #Line and Line segments

@@ -64,6 +64,7 @@
 	UVa 524
 #Segment Tree
 	CF - Xenia and Bit Operations (https://codeforces.com/contest/339/problem/D)
+	SPOJ - RANGESUM
 #Segmented Sieve
 	SPOJ-PRIME1
 	SPOJ-PRINT

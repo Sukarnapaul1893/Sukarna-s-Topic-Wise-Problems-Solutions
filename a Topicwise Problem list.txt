@@ -1,5 +1,6 @@
 #0-1 BFS
 	SPOJ - KATHTHI
+
 #BFS
 	ACM ICPC DHAKA REGIONAL ONLINE PRELIMINARY CONTEST 2018 Problem J (Link : https://algo.codemarshal.org/contests/icpc-dhaka-preli-18/problems/J)
 #Basic Geometry
@@ -12,6 +13,9 @@
 	UVa 558 
 #Big Integer
 	UVa 11448
+	
+#Bridges
+	SPOJ EC_P
 #Convex Hull
 	URI 1464 - Onion Layers
 	UVa 675

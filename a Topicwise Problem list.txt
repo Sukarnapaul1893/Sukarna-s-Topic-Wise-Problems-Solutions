@@ -79,6 +79,8 @@
 	SPOJ - MST
 #Stable Marriage Problem
 	Codechef - STABLEMP
+#Stack
+	UVaLive 4574 - Duplicate Removal
 #String compare
 	CF - Design Tutorial: Make It Nondeterministic (https://codeforces.com/contest/472/problem/C)
 #String

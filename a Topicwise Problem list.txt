@@ -59,6 +59,7 @@
 #Ordered_set
 	CF - Nested Segments (codeforces Link: https://codeforces.com/contest/652/problem/D)
 	CF - 45 D Event Dates (codeforces Link: https://codeforces.com/contest/45/problem/D)
+	CF - 1234 D Distinct Characters Queries
 #Palindromic Tree
 	HDU - 3948
 	SPOJ - NUMOFPAL

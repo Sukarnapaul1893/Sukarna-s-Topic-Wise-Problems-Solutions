@@ -80,6 +80,8 @@
 	SPOJ-PRINT
 #Spanning Tree
 	SPOJ - MST
+#Sparse Table
+	SPOJ - RMQSQ
 #Stable Marriage Problem
 	Codechef - STABLEMP
 #Stack

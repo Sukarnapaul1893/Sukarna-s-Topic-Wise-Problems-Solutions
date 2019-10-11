@@ -82,6 +82,7 @@
 	SPOJ - MST
 #Sparse Table
 	SPOJ - RMQSQ
+	SPOJ - THRBL
 #Stable Marriage Problem
 	Codechef - STABLEMP
 #Stack

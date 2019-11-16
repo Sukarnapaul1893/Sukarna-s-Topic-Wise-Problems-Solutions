@@ -84,6 +84,7 @@
 #Sparse Table
 	SPOJ - RMQSQ
 	SPOJ - THRBL
+	SPOJ - RPLN
 #Stable Marriage Problem
 	Codechef - STABLEMP
 #Stack

@@ -34,6 +34,8 @@
 	ACM ICPC DHAKA REGIONAL ONLINE PRELIMINARY CONTEST 2018 Problem H.cpp (Link : https://algo.codemarshal.org/contests/icpc-dhaka-preli-18/problems/H)
 #Floyd Warshall Algorithm
 	CF-New Year Permutation (Link: https://codeforces.com/contest/500/problem/B)
+#Game Theory
+	Uva 847
 #Implementation 
 	CF Gym 	F - Football Free Kick (Link: https://codeforces.com/gym/101864/problem/F)
 #Josephus Problem

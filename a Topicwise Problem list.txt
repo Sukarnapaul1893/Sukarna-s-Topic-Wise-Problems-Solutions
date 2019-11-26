@@ -42,6 +42,7 @@
 	LightOJ 1179
 #KMP
 	LightOJ-1255 - Substring Frequency
+	EOlymp - 1498
 #KMP Failure Function
 	UVa - 455
 	UVa - 10298

@@ -42,6 +42,8 @@
 	LightOJ 1179
 #KMP
 	LightOJ-1255 - Substring Frequency
+#KMP Failure Function
+	UVa - 455
 #LCA (Lowest common ancestor)
 	CF - Blood Cousins (codeforces link: https://codeforces.com/contest/208/problem/E)
 #Line and Line segments

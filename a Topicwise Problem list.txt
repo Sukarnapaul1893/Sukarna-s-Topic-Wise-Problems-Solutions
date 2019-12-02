@@ -19,6 +19,9 @@
 #Bridges
 	SPOJ EC_P
 	CF 118E - Bertown roads (codeforces link : https://codeforces.com/problemset/problem/118/E)
+#Combinatorics
+	URI 2828
+	URI 1981
 #Convex Hull
 	URI 1464 - Onion Layers
 	UVa 675

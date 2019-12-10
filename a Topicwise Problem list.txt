@@ -88,6 +88,7 @@
 	CF - Xenia and Bit Operations (https://codeforces.com/contest/339/problem/D)
 	SPOJ - RANGESUM
 	SPOJ - KQUERYO
+	CF - 380C
 #Segmented Sieve
 	SPOJ-PRIME1
 	SPOJ-PRINT

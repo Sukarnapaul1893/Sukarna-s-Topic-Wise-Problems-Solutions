@@ -89,6 +89,7 @@
 	SPOJ - RANGESUM
 	SPOJ - KQUERYO
 	CF - 380C
+	SPOJ - POSTERS (Lazy with Propagation)
 #Segmented Sieve
 	SPOJ-PRIME1
 	SPOJ-PRINT

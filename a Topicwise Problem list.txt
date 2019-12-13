@@ -88,6 +88,7 @@
 	CF - Xenia and Bit Operations (https://codeforces.com/contest/339/problem/D)
 	SPOJ - RANGESUM
 	SPOJ - KQUERYO
+	SPOJ - KQUERY
 	CF - 380C
 	SPOJ - POSTERS (Lazy with Propagation)
 #Segmented Sieve

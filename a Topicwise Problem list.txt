@@ -53,6 +53,7 @@
 	UVa - 10298
 #LCA (Lowest common ancestor)
 	CF - Blood Cousins (codeforces link: https://codeforces.com/contest/208/problem/E)
+	LightOJ - 1128
 #Line and Line segments
 	CF - Power Transmission (Hard Edition) (codeforces Link: https://codeforces.com/contest/1163/problem/C2)
 #Linked List

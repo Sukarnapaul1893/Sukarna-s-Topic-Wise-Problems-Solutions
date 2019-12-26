@@ -114,6 +114,7 @@
 	LightOJ - 1003
 #Tree Diameter
 	SPOJ - PT07Z Longest path in a tree
+	LightOJ - 1094
 #Trie
 	UVa 11362
 	Timus 1414

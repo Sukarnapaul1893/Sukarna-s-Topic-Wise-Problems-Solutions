@@ -110,6 +110,8 @@
 	CF - Design Tutorial: Make It Nondeterministic (https://codeforces.com/contest/472/problem/C)
 #String
 	UVALive - 2642
+#Strongly Connected Components
+	LightOJ - 1003
 #Tree Diameter
 	SPOJ - PT07Z Longest path in a tree
 #Trie

@@ -64,6 +64,9 @@
 	UVa 10061
 	CF - 20B Equation (codeforces Link: https://codeforces.com/contest/20/problem/B)
 	Codechef - GEEK02
+#Matrix exponentiation
+	LightOJ - 1065
+	LightOJ - 1096
 #Minimum Veertex Cover
 	SPOJ - PT07X
 #Mo's Algorithm

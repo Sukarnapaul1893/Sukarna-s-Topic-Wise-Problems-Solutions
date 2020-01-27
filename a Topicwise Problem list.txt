@@ -21,6 +21,8 @@
 #Bridges
 	SPOJ EC_P
 	CF 118E - Bertown roads (codeforces link : https://codeforces.com/problemset/problem/118/E)
+#Centroid
+	CF - 321C
 #Combinatorics
 	URI 2828
 	URI 1981

@@ -69,6 +69,8 @@
 #Matrix exponentiation
 	LightOJ - 1065
 	LightOJ - 1096
+#Meet in the middle
+	UVA - 13207
 #Minimum Veertex Cover
 	SPOJ - PT07X
 #Mo's Algorithm

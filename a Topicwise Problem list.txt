@@ -76,6 +76,8 @@
 #Mo's Algorithm
 	Powerful array(codeforces link: https://codeforces.com/contest/86/problem/D)
 	SPOJ-DQUERY
+	SPOJ - FREQ2
+	UVA - 11235
 #Modular Arithmetic
 	Uva-10127
 	UVa-374

@@ -125,6 +125,8 @@
 	UVALive - 2642
 #Strongly Connected Components
 	LightOJ - 1003
+#Suffix Array
+	SPOJ - DISUBSTR
 #Tree Diameter
 	SPOJ - PT07Z Longest path in a tree
 	LightOJ - 1094

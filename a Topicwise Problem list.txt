@@ -98,6 +98,8 @@
 	UVa 10394
 #Recursion
 	UVa 524
+#SQRT Decomposition
+	https://toph.co/p/k-game
 #Segment Tree
 	CF - Xenia and Bit Operations (https://codeforces.com/contest/339/problem/D)
 	SPOJ - RANGESUM

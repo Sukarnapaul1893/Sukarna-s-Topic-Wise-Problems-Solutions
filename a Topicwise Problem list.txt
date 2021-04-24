@@ -113,6 +113,7 @@
 	LightOJ - 1197
 #Spanning Tree
 	SPOJ - MST
+	Timus 1982
 #Sparse Table
 	SPOJ - RMQSQ
 	SPOJ - THRBL
